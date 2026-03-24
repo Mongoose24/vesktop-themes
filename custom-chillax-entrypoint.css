@@ -273,7 +273,7 @@ span[class="inner-26JK4f"] > * {
 }
 
 /* member list and friend DMs hover effect */
-.clickable__91a9d:hover,
+/* .clickable__91a9d:hover,
 .interactive_bf202d:hover {
     transform: scale(1.1);
     transition: all 0.2s;
@@ -282,7 +282,7 @@ span[class="inner-26JK4f"] > * {
 .clickable__91a9d,
 .interactive_bf202d {
     transition: all 0.3s;
-}
+} */
 
 /*recolor search*/
 .container__55c99 {
