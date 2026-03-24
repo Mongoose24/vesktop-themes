@@ -2932,3 +2932,7 @@ html.theme-light .modeSelected__2ea32 .name__2ea32 {
 .chatTypingGradientNotAtBottom__36d07.chatGradientBase__36d07 {
     display: none !important;
 }
+
+.panels__5e434 .buttons__37e49 > * {
+    opacity: 1 !important;
+}
