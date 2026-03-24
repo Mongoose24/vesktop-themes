@@ -610,7 +610,7 @@ html.theme-dark .mainContent-20q_Hp::before {
     }
 }
 
-@keyframes wave-text {
+/* @keyframes wave-text {
     00% {
         transform: translateY(0em);
     }
@@ -619,7 +619,7 @@ html.theme-dark .mainContent-20q_Hp::before {
     }
     100% {
         transform: translateY(0em);
-    }
+    } */
 }
 
 /*bd editor control colour*/
